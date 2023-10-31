@@ -7,3 +7,8 @@ document.getElementById("botao-new").addEventListener("click", function() {
     var caixaDeTexto = document.getElementById("caixaDeTexto-new");
     caixaDeTexto.textContent = "Texto Alterado!";
 });
+
+document.getElementById("botao-old").addEventListener("click", function() {
+    var caixaDeTexto = document.getElementById("caixaDeTexto-new");
+    caixaDeTexto.textContent = "Texto Alterado!";
+});
