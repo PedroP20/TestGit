@@ -1,0 +1,12 @@
+#botao {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+#caixaDeTexto {
+    font-size: 18px;
+    margin-top: 20px;
+}
