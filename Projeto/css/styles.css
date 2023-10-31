@@ -24,3 +24,16 @@
     margin-top: 20px;
 }
 
+#botao-old {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+#caixaDeTexto-old {
+    font-size: 18px;
+    margin-top: 20px;
+}
+
