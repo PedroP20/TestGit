@@ -17,3 +17,8 @@ document.getElementById("botao-log").addEventListener("click", function() {
     var caixaDeTexto = document.getElementById("caixaDeTexto-log");
     caixaDeTexto.textContent = "Texto Alterado!";
 });
+
+document.getElementById("botao-log1").addEventListener("click", function() {
+    var caixaDeTexto = document.getElementById("caixaDeTexto-log1");
+    caixaDeTexto.textContent = "Texto Alterado!";
+});
